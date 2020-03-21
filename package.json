@@ -1,0 +1,11 @@
+{
+  "name": "shakespeare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "John West",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.15.0"
+  }
+}

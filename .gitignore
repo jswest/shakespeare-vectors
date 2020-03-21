@@ -1,0 +1,5 @@
+.DS_Store
+/env
+/misc
+/node_modules
+/scripts/.ipynb_checkpoints

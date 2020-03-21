@@ -1,0 +1,6 @@
+jupyter
+tensorflow
+tensorflow-hub
+matplotlib
+sklearn
+umap-learn
